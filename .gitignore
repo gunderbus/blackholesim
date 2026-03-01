@@ -1,6 +1,8 @@
 # Ignore compiled classes and jars
 target/
 *.class
+.m2/
+.gradle/
 
 # Ignore IDE specific files
 .settings/
